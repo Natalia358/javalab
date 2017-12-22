@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+    <name>g365</name>
+    <mentor>Randy Fisher</mentor>
+    <childrens>
+        <children>
+            <firstName>Damian</firstName>
+            <lastName>Johnson</lastName>
+            <dateOfBirthday>2010-01-18</dateOfBirthday>
+            <address>Polytaeva 7</address>
+            <phoneNumber>380981234567</phoneNumber>
+        </children>
+        <children>
+            <firstName>Linda</firstName>
+            <lastName>Tyler</lastName>
+            <dateOfBirthday>2015-07-25</dateOfBirthday>
+            <address>Polytaeva 251</address>
+            <phoneNumber>380981296367</phoneNumber>
+        </children>
+    </childrens>
+</group>
